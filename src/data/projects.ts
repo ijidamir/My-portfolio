@@ -7,6 +7,7 @@ export const projects: Project[] = [
     tech: ["React", "Tailwind CSS"],
     featured: true,
     accent: "#C0C0C0",
+    demo: "https://lecture-tracker-sigma.vercel.app/"
   },
   {
     title: "E-Commerce Website",
@@ -14,7 +15,7 @@ export const projects: Project[] = [
     tech: ["React", "TypeScript", "Tailwind CSS"],
     featured: false,
     accent: "#7DD3FC",
-    demo:"https://lecture-tracker-sigma.vercel.app/"
+    demo:"https://zogor-apparel.vercel.app/"
   },
   {
     title: "Music Player",
@@ -22,6 +23,7 @@ export const projects: Project[] = [
     tech: ["HTML", "CSS", "JavaScript"],
     featured: false,
     accent: "#A78BFA",
+    demo: "https://code-alpha-music-player-chi.vercel.app/"
   },
   {
     title: "Image Gallery",

@@ -1,7 +1,10 @@
+
+
 export interface Skill {
     name: string;
     color: string;
-    icon: string;
+    iconColor:string;
+    icon: React.ReactNode;
   }
   
   export interface Project {
